@@ -12,7 +12,7 @@ In my free time I focus on personal and professional development, psychology and
 - Xetreme Programing (Kent Beck)
 
 ### 🙂 Fun fact
-I did a pilgrimage to Santiago de Compostela (Portuguese central route 200 from Bacelos)
+I did a [pilgrimage](https://en.wikipedia.org/wiki/Camino_de_Santiago) to Santiago de Compostela (Portuguese central route 200 km from Bacelos)
 
 <!--
 **jakubkouba/jakubkouba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
