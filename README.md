@@ -1,17 +1,17 @@
 ## Hi my  👋
 
-### About me
+### About me 👨
 My name is Jacob and I'm a Ruby on Rails developer with **8+ years** experience. Currenlty dusting off my JavaScript skills, learning ⚛️ and node.js ecosystem.
 I'm codin exercise enthusiast so you can find here a few (e.g (Gilded Rose)[https://github.com/jakubkouba/gilded_rose_kata] or (Tenis)[https://github.com/jakubkouba/Tennis-Refactoring-Kata])
 
-In my free time I focus on personal and professional development, psychology and physical excercises
+In my free time I focus on personal and professional development, psychology and physical excercises. I like hiking and 🏕️ 
 
-# 📚 I've read
+### 📚 I've read
 - Clean Coder (Rober C. Martin)
 - Objec Oriented Desing in Ruby (Sandi Metz)
 - Xetreme Programing (Kent Beck)
 
-# Fun fact
+### 🙂 Fun fact
 I did a pilgrimage to Santiago de Compostela (Portuguese central route 200 from Bacelos)
 
 <!--
