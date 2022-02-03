@@ -2,7 +2,7 @@
 
 ### About me 👨
 My name is Jacob and I'm a Ruby on Rails developer with **8+ years** experience. Currenlty dusting off my JavaScript skills, learning ⚛️ and node.js ecosystem.
-I'm coding exercise enthusiast so you can find here a few (e.g [Gilded Rose](https://github.com/jakubkouba/gilded_rose_kata) or [Tenis](https://github.com/jakubkouba/Tennis-Refactoring-Kata) kata)
+I'm coding exercise enthusiast so you can find here a few here(e.g [Gilded Rose](https://github.com/jakubkouba/gilded_rose_kata) or [Tenis](https://github.com/jakubkouba/Tennis-Refactoring-Kata) kata)
 
 In my free time I focus on personal and professional development, psychology and physical excercises. I like hiking and 🏕️ 
 
